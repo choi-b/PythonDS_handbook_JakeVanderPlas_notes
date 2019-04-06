@@ -4,5 +4,4 @@ This handbook covers data manipulation techniques using NumPy and Pandas, meant 
 Excluding the introductory chapter 1, the notes will be based on chapter 2 through 5.
 
 Visit Jake VanderPlas's Github at https://github.com/jakevdp/PythonDataScienceHandbook for more information.
-#### Data can be accessed : https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/data/Seattle2014.csv
-
+#### The data that he uses can be accessed here : https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/data/
