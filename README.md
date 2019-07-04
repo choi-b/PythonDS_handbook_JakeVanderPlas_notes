@@ -8,4 +8,4 @@ Excluding the introductory chapter 1, the notes will be based on chapter 2 throu
 
 Visit Jake VanderPlas's Github at https://github.com/jakevdp/PythonDataScienceHandbook for more information.
 #### The data that he uses can be accessed here : https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/data/
-##### Some data may be missing and may need to be downloaded from other sources. This was one of the reasons, I skipped many examples on my notes.
+##### Some data may be missing and may need to be downloaded from other sources. This was one of the reasons I skipped many examples on my notes.
