@@ -1,6 +1,6 @@
 ## Notes on Jake VanderPlas's book "Python Data Science Handbook".
 
-I made a summary of Jake VanderPlas's book "Python Data Science Handbook". This repository might be beneficial for some who prefer to learn casually (like me) rather than actually going through the entire book.
+This is a summary of my notes from Jake VanderPlas's book "Python Data Science Handbook". If you prefer to learn casually and look up different data science techniques rather than actually going through the entire book, then this is for you.
 
 The book covers the basics of data manipulation, data visualization, and some machine learning techniques using tools like NumPy and Pandas, Matplotlib and Seaborn, Scikit-Learn, etc. to effectively store, manipulate, and analyze your data.
 
